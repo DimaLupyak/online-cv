@@ -8,7 +8,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: dima.lupyak@gmail.com
     linkedin: lupyak
     github: DimaLupyak
     telegram: dimalupiak
@@ -54,8 +54,8 @@ experiences:
       company: Delphi LLC
       project: InterACT
       details: |
+        Developing tool for install infrastructure in cloud or on premise
         Developed projects and their architecture from scratch.
-        Developed tool for install infrastructure in cloud or on premise.
         Developed analog of Ansible – tool based on PowerShell SDK.
 
 
