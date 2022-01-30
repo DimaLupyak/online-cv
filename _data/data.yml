@@ -52,6 +52,7 @@ experiences:
     - role: Senior Software Engineer
       time: 2019  - Present
       company: Delphi LLC
+      project: InterACT
       details: |
         Developed projects and their architecture from scratch.
         Developed tool for install infrastructure in cloud or on premise.
@@ -61,6 +62,7 @@ experiences:
     - role: Software Engineer
       time: 2016 – 2019
       company: Delphi LLC
+      project: Engage
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
