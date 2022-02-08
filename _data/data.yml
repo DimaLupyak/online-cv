@@ -53,8 +53,9 @@ experiences:
       time: 2019  - Present
       company: Delphi LLC
       project: InterACT
-      details: |        
+      details: |
         Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration.
+        
         Developing analog of Ansible. NugGet library + CLI tool based on PowerShell SDK for performing different tasks on remote machines.
         Contribution: init commit and next ones, project architecture and API design, the high and low-level design of complex features, leadership of DevOps integrations, code reviews, international hackathon winner
         Technologies: ASP.NET Core, SignalR, MediatR (CQRS), LiteDB, Scriban, SpecFlow, xUnit, Ansible, PowerShell SDK, Git, WSL, Terraform, AWS, YAML, Chocolatey
@@ -66,17 +67,7 @@ experiences:
       project: Engage
       details: |
         Developing of desktop applications for verification of system readiness to installation and installation running.
-        Contribution: new features developing, bugs fixing, code reviews
-        Technologies: WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32
+        Contribution: new features developing, bugs fixing, code reviews, customer support
+        Technologies: WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32, PowerBI, XML
 
-
-skills:
-    title: Skills
-    toolset:
-      - name: Python & Django
-      - name: Javascript & jQuery
-      - name: Angular
-      - name: HTML5 & CSS
-      - name: Ruby on Rails
-      - name: Sketch & Photoshop
 
