@@ -53,27 +53,25 @@ education:
 experiences:
     - role: Senior Software Engineer
       time: 2019  - Present
-      company: Delphi LLC
-      project: InterACT
+      company: Delphi LLC (InterACT project)
       details: |
         Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration.
+
         Developing analog of Ansible. NugGet library + CLI tool based on PowerShell SDK for performing different tasks on remote machines.
 
         <strong>Contribution:</strong> init commit and next ones, project architecture and API design, the high and low-level design of complex features, leadership of DevOps integrations, code reviews, international hackathon winner
 
-        ###Technologies: 
-        ASP.NET Core, SignalR, MediatR (CQRS), LiteDB, Scriban, SpecFlow, xUnit, Ansible, PowerShell SDK, Git, WSL, Terraform, AWS, YAML, Chocolatey
+        <strong>Technologies:</strong> ASP.NET Core, SignalR, MediatR (CQRS), LiteDB, Scriban, SpecFlow, xUnit, Ansible, PowerShell SDK, Git, WSL, Terraform, AWS, YAML, Chocolatey
 
 
     - role: Software Engineer
       time: 2016 – 2019
-      company: Delphi LLC
-      project: Engage
+      company: Delphi LLC (Engage project)
       details: |
         Developing of desktop applications for verification of system readiness to installation and installation running.
 
-        Contribution: new features developing, bugs fixing, code reviews, customer support
+        <strong>Contribution:</strong> new features developing, bugs fixing, code reviews, customer support
         
-        Technologies: WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32, PowerBI, XML
+        <strong>Technologies:</strong> WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32, PowerBI, XML
 
 
