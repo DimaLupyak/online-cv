@@ -55,7 +55,7 @@ experiences:
       time: 2019  - Present
       company: Delphi LLC (InterACT project)
       details: |
-        Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration.
+        Developing of web-based service for verification of system readiness to installation, provisioning, and orchestration from scratch.
 
         Developing analog of Ansible. NugGet library + CLI tool based on PowerShell SDK for performing different tasks on remote machines.
 
