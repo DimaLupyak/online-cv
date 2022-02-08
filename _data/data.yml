@@ -53,10 +53,11 @@ experiences:
       time: 2019  - Present
       company: Delphi LLC
       project: InterACT
-      details: |
-        Developing tool for install infrastructure in cloud or on premise
-        Developed projects and their architecture from scratch.
-        Developed analog of Ansible – tool based on PowerShell SDK.
+      details: |        
+        Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration.
+        Developing analog of Ansible. NugGet library + CLI tool based on PowerShell SDK for performing different tasks on remote machines.
+        Contribution: init commit and next ones, project architecture and API design, the high and low-level design of complex features, leadership of DevOps integrations, code reviews, international hackathon winner
+        Technologies: ASP.NET Core, SignalR, MediatR (CQRS), LiteDB, Scriban, SpecFlow, xUnit, Ansible, PowerShell SDK, Git, WSL, Terraform, AWS, YAML, Chocolatey
 
 
     - role: Software Engineer
@@ -64,35 +65,18 @@ experiences:
       company: Delphi LLC
       project: Engage
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developing of desktop applications for verification of system readiness to installation and installation running.
+        Contribution: new features developing, bugs fixing, code reviews
+        Technologies: WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32
+
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Skills
     toolset:
       - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
-
       - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
-        level: 95%
-
       - name: Ruby on Rails
-        level: 85%
-
       - name: Sketch & Photoshop
-        level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
