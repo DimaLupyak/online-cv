@@ -1,6 +1,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dmytro Lupiak
@@ -37,6 +37,7 @@ career-profile:
     title: Career Profile
     summary: |
       6 years in the software application development in .NET.
+      
       Experience with the main aspects of the software development cycle
       including requirements definition, system design, implementation and support.
 
@@ -54,10 +55,11 @@ experiences:
       company: Delphi LLC
       project: InterACT
       details: |
-        Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration. \n
+        Developing of service for complex system installation from scratch. Web-based service for verification of system readiness to installation, provisioning, and orchestration.
         Developing analog of Ansible. NugGet library + CLI tool based on PowerShell SDK for performing different tasks on remote machines.
-        
+
         Contribution: init commit and next ones, project architecture and API design, the high and low-level design of complex features, leadership of DevOps integrations, code reviews, international hackathon winner
+
         Technologies: ASP.NET Core, SignalR, MediatR (CQRS), LiteDB, Scriban, SpecFlow, xUnit, Ansible, PowerShell SDK, Git, WSL, Terraform, AWS, YAML, Chocolatey
 
 
@@ -67,7 +69,9 @@ experiences:
       project: Engage
       details: |
         Developing of desktop applications for verification of system readiness to installation and installation running.
+
         Contribution: new features developing, bugs fixing, code reviews, customer support
+        
         Technologies: WinForms, WPF, WCF, DevExpress, Excel SDK, SQLite, WMI, Win32, PowerBI, XML
 
 
